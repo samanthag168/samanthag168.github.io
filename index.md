@@ -6,4 +6,4 @@
  An application that allows the player to adopt,name,and pick a color for their robot
  ## **Trivia game**
  Trivia application that allows the player to guess a correct answer 
-![trivia game.png]()
+![trivia game.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/trivia%20game.png)
