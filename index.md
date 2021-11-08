@@ -4,6 +4,7 @@
  ![backrooms thumbnail.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/backrooms%20thumbnail.png)
   Initially, I had issues running my program the way I want it to but then I realized I did not create an instance of a game in the program class and in the main() method. I also created some of my own ASCII art to fit specific events in my game. For instance, I created ASCII art of the entities and document item. 
   ![asciiart1](https://github.com/samanthag168/samanthag168.github.io/blob/main/asciiart1.png)
+  ![asciiart2](https://github.com/samanthag168/samanthag168.github.io/blob/main/asciiart2.png)
 ## **Tip Calculator**
 I practiced making a tip calculator that allows users to enter their bill total and tip percentage and then the application calculates their bill amount. 
  ![Screenshot 2021-11-07 203050.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/Screenshot%202021-11-07%20203050.png)
