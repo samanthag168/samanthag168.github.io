@@ -6,6 +6,8 @@
 I practiced making a tip calculator that allows users to enter their bill total and tip percentage and then the application calculates their bill amount. 
  ![Screenshot 2021-11-07 203050.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/Screenshot%202021-11-07%20203050.png)
  In my tip calculator, I added a few codes that validate the users input. For instance, I made sure that users do not enter a bill amount that's equal to or less than 0. If the user types "0" for their tip percentage I typed in a code that asks the user if they are sure that they'll tip 0% and if they choose to change their tip percentage then I implemented recursion so that the user can go back and change their tip %. After the bill amount is calculated, I added code that asks if the user wants to continue calculating or not. 
+  ![documentation1.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/documentation1.png)
+  ![documentation2.png]()
  ## **Trivia game**
  Trivia application that allows the player to guess a correct answer from a series of trivia questions
 ![trivia game.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/trivia%20game.png)
