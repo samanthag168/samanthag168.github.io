@@ -2,6 +2,7 @@
 ## **Adventure Game: The Backrooms**
   The title of my game is “The Backrooms”, this game is based on the urban legend that if you’re not careful you can “noclip” out of reality and accidentally get teleported into a realm of nothing but empty rooms that feel familiar to you. The main character has amnesia and wakes up in the backrooms. The player's mission is to escape the backrooms through their choices, the player will be presented with a set of choices that will guide them in exploring each room or will help them escape ominous entities that live in each room. If the player chooses the wrong choices they go insane and get trapped in the backrooms forever. Each room counts as a level that the player must complete to progress. As the player progresses, they regain parts of their memory and they learn why they were “noclipped” into the backrooms.
  ![backrooms thumbnail.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/backrooms%20thumbnail.png)
+  Initially, I had issues running my program the way I want it to but then I realized I did not create an instance of a game in the program class and in the main() method. I also created some of my own ASCII art to fit specific events in my game. For instance, I created ASCII art of the entities and document item. 
 ## **Tip Calculator**
 I practiced making a tip calculator that allows users to enter their bill total and tip percentage and then the application calculates their bill amount. 
  ![Screenshot 2021-11-07 203050.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/Screenshot%202021-11-07%20203050.png)
@@ -12,7 +13,7 @@ I practiced making a tip calculator that allows users to enter their bill total 
  ## **Trivia game**
  Trivia application that allows the player to guess a correct answer from a series of trivia questions
 ![trivia game.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/trivia%20game.png)
-  I created this application for fun and practice. I wanted to practice altering variables and I wanted to understand how the utility class works. I had fun adding ASCII's and now I have a better understanding of how you can program the utility class to validate user input. 
+  I created this application for fun and practice. I used the code created in class as a reference and I practiced altering variables. I wanted to understand how the utility class works. I had fun adding ASCII's and now I have a better understanding of how you can program the utility class to validate user input. 
   ![triviagame1.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/triviagame1.png)
   ![triviagame2.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/triviagame2.png)
  ## **Explorable Areas: Arcadia High**
