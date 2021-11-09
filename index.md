@@ -22,3 +22,5 @@ I practiced making a tip calculator that allows users to enter their bill total 
   I created an explorable areas application in order to practice programming and I had fun getting creative and coming up with areas to explore, NPCs, items, etc. My game is titled "Arcadia High" which is a high school simulator type of game and the player has to attend classes and their objective is to deliver a gift to their crush. 
 ## **Number Guessing Game**
 A game where a player guesses the number the PC is thinking of, the PC randomly generates a number between 1 and 10. 
+![number3](https://github.com/samanthag168/samanthag168.github.io/blob/main/number3.png)
+  I added two different codes for my game. I started off with a simple code which had the target number already assigned. The correct guess was 14 and I used if/else statements to verify if the player was correct or not. In my second code, I programmed the game so that it would generate a random number between 1 and 10 and I added a tryparse code that validates the player's input so that they'd type in a number. 
