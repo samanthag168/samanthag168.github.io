@@ -20,3 +20,4 @@ I practiced making a tip calculator that allows users to enter their bill total 
   ![triviagame2.png](https://github.com/samanthag168/samanthag168.github.io/blob/main/triviagame2.png)
  ## **Explorable Areas: Arcadia High**
   I created an explorable areas application in order to practice programming and I had fun getting creative and coming up with areas to explore, NPCs, items, etc. My game is titled "Arcadia High" which is a high school simulator type of game and the player has to attend classes and their objective is to deliver a gift to their crush. 
+## **Number Guessing Game**
