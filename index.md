@@ -13,14 +13,14 @@ I practiced making a tip calculator that allows users to enter their bill total 
  [documentation2](https://github.com/samanthag168/samanthag168.github.io/blob/main/documentation2.png)
  [documentation3](https://github.com/samanthag168/samanthag168.github.io/blob/main/documentation3.png)
 
-  ## **Trivia game**
+  ## Trivia game
  Trivia application that allows the player to guess a correct answer from a series of trivia questions
  [trivia game](https://github.com/samanthag168/samanthag168.github.io/blob/main/trivia%20game.png)
   I created this application for fun and practice. I used the code created in class as a reference and I practiced altering variables. I wanted to understand how the utility class works. I had fun adding ASCII's and now I have a better understanding of how you can program the utility class to validate user input. 
   [triviagame1](https://github.com/samanthag168/samanthag168.github.io/blob/main/triviagame1.png)
   [triviagame2](https://github.com/samanthag168/samanthag168.github.io/blob/main/triviagame2.png)
   
- ## **Explorable Areas: Arcadia High**
+ ## Explorable Areas: Arcadia High
   I created an explorable areas application in order to practice programming and I had fun getting creative and coming up with areas to explore, NPCs, items, etc. My game is titled "Arcadia High" which is a high school simulator type of game and the player has to attend classes and their objective is to deliver a receive to their crush. 
   [ss2](https://github.com/samanthag168/samanthag168.github.io/blob/main/ss2.png)
   I created a large variety of items, such as, food items that the player can buy like a cheese pizza meal, cheeseburger meal, fruit cup, etc. I also created a few locations like "Locker" where the player will obtain most of their required items. I added currency to the game so that the player can trade money with the lunchladies to get the food items. I included prices for each food item
